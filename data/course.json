@@ -34,7 +34,7 @@
   },
   "course_title": "Leveraging Urban Mobility Disruptions to Create Better Cities",
   "hide_download": true,
-  "course_description": "In this course, we explore how new mobility systems can be leveraged to promote equity, improve health outcomes, and increase accessibility. Lectures by\u00a0transportation professors from Europe, Asia, Latin America, Africa, and the United States are supplemented with\u00a0interviews with preeminent entrepreneurs, city planners, community development experts, and mobility justice advocates.\n\nTopics covered include land use and urban form; new mobility business models, pricing, policy, technology, and data; the importance of designing new mobility systems for equity, health, and the environment; and racial justice within the transportation field.\n\nThis course is part of the {{% resource_link \"e28eff3e-a821-4137-bf0b-67af6e11f4df\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "course_description": "In this course, we explore how new mobility systems can be leveraged to promote equity, improve health outcomes, and increase accessibility. Lectures by\u00a0transportation professors from Europe, Asia, Latin America, Africa, and the United States are supplemented with\u00a0interviews with preeminent entrepreneurs, city planners, community development experts, and mobility justice advocates.\n\nTopics covered include land use and urban form; new mobility business models, pricing, policy, technology, and data; the importance of designing new mobility systems for equity, health, and the environment; and racial justice within the transportation field.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
   "department_numbers": [
     "11"
   ],
@@ -44,6 +44,7 @@
     "content": "d5c4a97e-27eb-75e1-3216-87178b6a510c",
     "website": "res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "497e16d3-7f05-4e17-a701-e373daba4998",
   "site_short_id": "res.11-550-spring-2021",
